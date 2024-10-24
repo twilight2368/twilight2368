@@ -1,6 +1,6 @@
 ![background](./WallpaperDog-20502404.jpg)
 
-## Hi there 👋
+## 「こんにちはあるいはこんばんは」👋
 
 <!--
 **twilight2368/twilight2368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
